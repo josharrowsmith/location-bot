@@ -14,7 +14,7 @@ i.e coffee 5km away ?. The application was build with facebook messager api and 
 
 # things to do 
 - Add images to the foursquare stuff 
-- Add more skate park data borrow from a non disclosure ;)
+- Add more skate park data borrow from a non disclosure location ;)
 - figue out how geoquery returns the data ????
 - do postback buttons
 - UI stuff
